@@ -33,20 +33,41 @@ Note: Don’t go to URL “http://localhost/ecommerce/admin” for Admin Panel. 
 
          : : : : : LOGIN DETAILS : : : : : 
 
-ADMIN PANEL LOGIN:
-
->> NOTE : (for admin panel, login from the user's login)
->>Enter the following details in Login for Admin Panel.
+ADMIN PANEL LOGIN(for admin panel, login from the user's login)
 
 Username: admin@admin.com
 Password: password
 
 USER LOGIN:
 
-Username: harry@den.com
-Password: code0
+Username: ayesha@gmail.com
+Password: 12345678
 
-DON'T FORGET TO CREATE A DATABASE NAMING "ecomm" AND IMPORT THE SQL FILE TO RUN.
-WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+Features:
+
+Admin Panel through which admin can Add, Edit, Remove Products
+Login/Sign Up
+Magnify product image
+Product Cart
+User Management
+Viewsales
+User can View Product, Add, Edit, Remove Products from cart, can place order
+
+Languages Used: 
+
+PHP
+CSS
+JavaScript
+HTML
+
+Opensource Integration:
+
+CKEditor
+Bootstrap
+FootAwesome
+tcpdf
+Time picker
+
+Create a database name "ecomm" in mysql and import database from from database folder.The project won't run without database.
 
 >>DATABASE FILE IS INSIDE "database" FOLDER!
